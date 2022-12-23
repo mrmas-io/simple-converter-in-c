@@ -1,0 +1,3 @@
+D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug/CMakeFiles/simple_converter_in_c.dir
+D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
