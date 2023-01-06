@@ -239,18 +239,18 @@ void octal_to_all()
     printf("%c", 0x10);
 
     int i=0, j=0, k=0, len1=0, len2=0, len3=0;
+    
     goto_xy(X+6, Y);
-    printf("%c Enter the number in decimal : ", 0x4);
+    printf("%c Enter the number in Octadecimal : ", 0x4);
     scanf("%llo", &octal);
-
-    temp_dec = octal;
+    decimal = 0;
+    temp_hex = temp_bin = temp_dec = octal;
     while(temp_dec){
         rem = temp_dec % 10;
         decimal += rem * (pow(8, expo));
         temp_dec /= 10;
         expo += 1;
     }
-    temp_hex = temp_bin = decimal;
     while (temp_hex)
     {
         hex[j++] = temp_hex % 16;
@@ -270,7 +270,7 @@ void octal_to_all()
     goto_xy(X+9, Y+4);
     printf("%c %llo Base 8 = ", 0x1A, octal);
     for(int l = len2-1; l >= 0; l--){
-        if (hex[l] > 9){
+        if (hex[l] >= 9){
             printf("%llx", hex[l]);
         }
         else
@@ -319,15 +319,16 @@ void hexadecimal_to_all()
         decimal += rem * (pow(16, expo));
         temp_dec /= 10;
         expo += 1;
-    }
+    }*/
 
+    
+    temp_oct = temp_bin = decimal = hexadecimal;
     while (temp_oct)
     {
-        oct[j++] = temp_hex % 8;
-        temp_hex /= 8;
+        oct[j++] = temp_oct % 8;
+        temp_oct /= 8;
         len2 += 1;
-    }*/
-    temp_bin = decimal = hexadecimal;
+    }
     while (temp_bin)
     {
         bin[k++] = temp_bin % 2;

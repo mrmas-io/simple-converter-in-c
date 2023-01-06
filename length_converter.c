@@ -179,6 +179,7 @@ void length_converter()
         case '6' :
             subhead();
             goto_xy(X+9, Y);
+            printf("%c Enter the Length in meters : ", 0x4);
             scanf("%lf", &length);
             goto_xy(X+12, Y+2);
             printf("%lf Meters = %lf Miles", length, (length * 0.0006213712));
@@ -193,12 +194,13 @@ void length_converter()
                 exit(0);
             else
                 menu();
-            printf("%c Enter the Length in Meters : ", 0x4);
+            //printf("%c Enter the Length in Meters : ", 0x4);
             break;
 
         case '7' :
             subhead();
             goto_xy(X+9, Y);
+            printf("%c Enter the Length in Yards : ", 0x4);
             scanf("%lf", &length);
             goto_xy(X+12, Y+2);
             printf("%lf Yards = %lf Meters", length, (length * 0.9144));
@@ -217,7 +219,7 @@ void length_converter()
                 exit(0);
             else
                 menu();
-            printf("%c Enter the Length in Yards : ", 0x4);
+            //printf("%c Enter the Length in Yards : ", 0x4);
             break;
 
         case '8' :

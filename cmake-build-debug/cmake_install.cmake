@@ -1,4 +1,4 @@
-# Install script for directory: D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c
+# Install script for directory: D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
