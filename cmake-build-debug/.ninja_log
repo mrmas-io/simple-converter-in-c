@@ -1,0 +1,5 @@
+# ninja log v5
+146	9372	6947350962021735	CMakeFiles/simple_converter_in_c.dir/temperature_converter.c.obj	a7bfc5aa0ea43e3f
+1	9805	6947350969683399	CMakeFiles/simple_converter_in_c.dir/main.c.obj	5797ed132b2430ef
+196	10305	6947350979978300	CMakeFiles/simple_converter_in_c.dir/number_conversion.c.obj	e4a25d24099fd813
+9747	13166	6947351008450709	CMakeFiles/simple_converter_in_c.dir/length_converter.c.obj	593e7cb4f1a67dee

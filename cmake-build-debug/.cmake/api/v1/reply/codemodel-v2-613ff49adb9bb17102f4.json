@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug",
-		"source" : "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c"
+		"build" : "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c/cmake-build-debug",
+		"source" : "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c"
 	},
 	"version" : 
 	{

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug"
+			"value" : "d:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c"
+			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c/cmake-build-debug"
+			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c/cmake-build-debug"
 		},
 		{
 			"name" : "simple_converter_in_c_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/simple-post-midterm-project/simple-converter-in-c"
+			"value" : "D:/MrMas/iticu-eee/first-year/BIL_131/projects/sample-post-midterm-project/simple-converter-in-c"
 		}
 	],
 	"kind" : "cache",
